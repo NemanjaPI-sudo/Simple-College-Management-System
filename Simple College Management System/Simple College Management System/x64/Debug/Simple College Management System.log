@@ -1,0 +1,5 @@
+﻿  Simple College Management System.cpp
+C:\Users\macho\Desktop\FAX\C++ Simple Collage Management System\Simple College Management System\Simple College Management System\Simple College Management System.cpp(16,3): error C3861: 'gets': identifier not found
+C:\Users\macho\Desktop\FAX\C++ Simple Collage Management System\Simple College Management System\Simple College Management System\Simple College Management System.cpp(21,3): error C3861: 'gets': identifier not found
+C:\Users\macho\Desktop\FAX\C++ Simple Collage Management System\Simple College Management System\Simple College Management System\Simple College Management System.cpp(146,3): error C3861: 'gets': identifier not found
+C:\Users\macho\Desktop\FAX\C++ Simple Collage Management System\Simple College Management System\Simple College Management System\Simple College Management System.cpp(157,3): error C3861: 'gets': identifier not found
